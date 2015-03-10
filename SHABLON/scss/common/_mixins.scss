@@ -1,0 +1,91 @@
+@mixin text-hide($type: default) {
+  text-indent: -9999px;
+  font-size: 0;
+  line-height: 0;
+}
+
+@mixin clear-box {
+  clear: both;
+  overflow: hidden;
+}
+
+@mixin inline {
+  display: inline-block;
+  vertical-align: top;
+  *display: inline;
+  *zoom: 1;
+  *text-indent: 0 !important;
+}
+
+@mixin oneline-sprite($map, $name, $repeat: no-repeat, $bg-color: '') {
+  background: #{$bg-color} sprite-url($map) sprite-position($map, $name) #{$repeat};
+}
+
+@mixin oneline-sprite-box($map, $name, $repeat: no-repeat, $bg-color: '', $text: true) {
+  @if $text != true {
+    @include hide-text;
+  }
+  @include sprite-dimensions($map, $name);
+  @include oneline-sprite($map, $name, $repeat, $bg-color);
+}
+
+@mixin pseudo-block($top: false, $right: false, $bottom: false, $left: false, $position: absolute) {
+  content: "";
+  
+  @if ($position == relative) {
+    @include inline;
+  }
+  @else {
+    display: block;
+  }
+  
+  position: $position;
+  
+  @if ($top) {
+    top: $top;
+  }
+  @if ($right) {
+    right: $right;
+  }
+  @if ($bottom) {
+    bottom: $bottom;
+  }
+  @if ($left) { 
+    left: $left; 
+  }
+}
+
+@mixin clearfix($pseudo: true) {
+  $after: '&:after';
+  
+  @if $pseudo == false {
+    $after: '.after-clearfix';
+    suffix: -clearfix;
+    after: ' ';
+  }
+  
+  #{$after} { 
+    content: " ";
+    display: block;
+    height: 0;
+    clear: both;
+    overflow: hidden;
+    visibility: hidden;
+  }
+}
+
+@mixin input-placeholder($color) {
+  &.placeholder {
+    color: $color;
+  }
+  &:-moz-placeholder {
+    color: $color;
+  }
+  &::-webkit-input-placeholder {
+    color: $color;
+  }
+}
+
+@mixin font-size($pxval, $baseline : $base_fs_px) {
+  font-size: ($pxval / $baseline) * 1em
+}
