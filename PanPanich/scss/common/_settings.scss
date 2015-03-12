@@ -1,0 +1,20 @@
+$icons: sprite-map('icons/*.png', $spacing: 8px, $layout: 'smart');
+//$h-sprites: sprite-map('h-sprites/*.png',$layout: 'vertical', $spacing: 8px);
+//$v-sprites: sprite-map('v-sprites/*.png', $layout: 'horizontal', $spacing: 8px);
+
+$experimental-support-for-svg: true;
+$experimental-support-for-opera: false;
+
+//width
+
+//fonts
+
+//weight-fonts
+$regular: 400;
+$sbold: 600;
+$bold: 700;
+
+//font-family
+$mp-regular: 'MyriadPro-Regular';
+$osans: 'Open Sans';
+$ptsans: 'PT Sans';
