@@ -439,10 +439,15 @@ body {
   font-family: "proximanova-regular";
 }
 
+.header-wrapper {
+  position: relative;
+}
 .header-wrapper h1 {
   font-size: 71px;
   font-weight: 100;
   text-align: center;
+  margin: 0;
+  padding: 100px 0 85px 0;
 }
 .header-wrapper h1 span {
   font-size: 31px;
@@ -450,6 +455,9 @@ body {
   display: block;
 }
 .header-wrapper a.link {
+  position: absolute;
+  top: 100px;
+  right: 100px;
   display: inline-block;
   color: #fff;
   background: #696ab9;
@@ -483,6 +491,6 @@ body {
   background:  url('../images/icons-s54d0a67b93.png') 0 0 no-repeat;
 }
 
-.content-wrapper .img-one img {
+.content-wrapper .img-one img, .content-wrapper .img-two img {
   width: 100%;
 }
