@@ -2,6 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e16c9f28-bc18-497e-b78d-36c1c4c33a24" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-bold-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-bold-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-bold-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-bold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-boldit-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-boldit-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-boldit-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-boldit-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-regular-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-regular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-regular-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-regularitalic-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-regularitalic-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-regularitalic-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-regularitalic-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/.idea/Compass.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/scss/layout/_content.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/scss/common/_defaults.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/scss/common/_fonts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/scss/forms/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/scss/common/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/scss/common/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/scss/common/_settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/js/lib/html5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/common/js/lib/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/js/js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-bold-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-boldit-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-regular-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/fonts/proximanova-regularitalic-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/theme/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/scss/styles.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Concurrency/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/drakkar.iml" afterPath="$PROJECT_DIR$/.idea/drakkar.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="drakkar.iws" />
@@ -25,10 +69,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="_forms.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concurrency/scss/forms/_forms.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="15" selection-start="99" selection-end="99" vertical-scroll-proportion="0.20804195" vertical-offset="0" max-vertical-offset="572">
+            <state line="2" column="1" selection-start="10" selection-end="10" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="136">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Concurrency/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="26" selection-start="822" selection-end="827" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="816">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_content.scss" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Concurrency/scss/layout/_content.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="6" selection-start="289" selection-end="289" vertical-scroll-proportion="0.49908257" vertical-offset="0" max-vertical-offset="1105">
               <folding />
             </state>
           </provider>
@@ -48,6 +110,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Concurrency/index.html" />
+        <option value="$PROJECT_DIR$/Concurrency/scss/common/_defaults.scss" />
+        <option value="$PROJECT_DIR$/Concurrency/scss/common/_fonts.scss" />
+        <option value="$PROJECT_DIR$/Concurrency/scss/common/_settings.scss" />
+        <option value="$PROJECT_DIR$/Concurrency/scss/layout/_content.scss" />
       </list>
     </option>
   </component>
@@ -103,6 +170,126 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drakkar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REPOSETORY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Concurrency" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drakkar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REPOSETORY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Concurrency" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drakkar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REPOSETORY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Concurrency" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drakkar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REPOSETORY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Concurrency" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drakkar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REPOSETORY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Concurrency" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drakkar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="REPOSETORY" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Concurrency" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -111,6 +298,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="LayoutCode.rearrangeEntriesSCSS" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\XAMPP\htdocs\REPOSETORY\Concurrency\theme\fonts" />
+      <recent name="D:\XAMPP\htdocs\REPOSETORY" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -138,11 +332,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32831" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32901832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -178,23 +372,44 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/Concurrency/scss/common/_defaults.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="15" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="255">
+        <state line="24" column="12" selection-start="229" selection-end="229" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/Concurrency/scss/common/_fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="11" selection-start="76" selection-end="76" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="238">
+        <state line="34" column="16" selection-start="1405" selection-end="1430" vertical-scroll-proportion="0.59266055" vertical-offset="255" max-vertical-offset="816">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/Concurrency/scss/forms/_forms.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="15" selection-start="99" selection-end="99" vertical-scroll-proportion="0.20804195" vertical-offset="0" max-vertical-offset="572">
+        <state line="2" column="1" selection-start="10" selection-end="10" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="26" selection-start="822" selection-end="827" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/scss/common/_settings.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="545">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concurrency/scss/layout/_content.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="6" selection-start="289" selection-end="289" vertical-scroll-proportion="0.49908257" vertical-offset="0" max-vertical-offset="1105">
           <folding />
         </state>
       </provider>

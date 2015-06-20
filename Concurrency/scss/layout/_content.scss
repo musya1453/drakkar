@@ -1,0 +1,60 @@
+body {
+  background: linear-gradient(#8484e7 0%, #4d84e7 100%);
+  min-width: 800px;
+  font-family: $regular;
+}
+
+.header-wrapper {
+  h1 {
+    font-size: 71px;
+    font-weight: 100;
+    text-align: center;
+
+    span {
+      font-size: 31px;
+      color: #cdcef5;
+      display: block;
+    }
+  }
+
+  a.link {
+    display: inline-block;
+    color: #fff;
+    background: #696ab9;
+    text-decoration: none;
+    padding: 20px 55px;
+   border:3px solid #9c9dec;
+    @include border-radius(11px);
+    text-align: center;
+
+    span {
+      display: block;
+    }
+
+    .text{
+      font-size: 30px;
+    }
+
+    .store {
+      position: relative;
+      font-size: 40px;
+      font-family: $bold;
+
+      &:before {
+        @include pseudo-block($top: 0, $left: 60px);
+        @include oneline-sprite-box($icons, apple)
+      }
+    }
+  }
+
+}
+
+.content-wrapper {
+
+  .img-one {
+
+    img {
+      width: 100%;
+    }
+  }
+}
