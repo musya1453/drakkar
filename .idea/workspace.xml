@@ -6,6 +6,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Concurrency/scss/layout/_content.scss" afterPath="$PROJECT_DIR$/Concurrency/scss/layout/_content.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Concurrency/index.html" afterPath="$PROJECT_DIR$/Concurrency/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Concurrency/theme/css/styles.css" afterPath="$PROJECT_DIR$/Concurrency/theme/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="drakkar.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,20 +38,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Concurrency/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="108" column="27" selection-start="3772" selection-end="3772" vertical-scroll-proportion="0.8807018" vertical-offset="1334" max-vertical-offset="2074">
+            <state line="90" column="88" selection-start="3297" selection-end="3297" vertical-scroll-proportion="-56.807693" vertical-offset="53" max-vertical-offset="2091">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_content.scss" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_content.scss" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Concurrency/scss/layout/_content.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="21" selection-start="1113" selection-end="1113" vertical-scroll-proportion="-9.686275" vertical-offset="662" max-vertical-offset="1326">
-              <folding />
+            <state line="16" column="27" selection-start="207" selection-end="207" vertical-scroll-proportion="0.03119266" vertical-offset="255" max-vertical-offset="3247">
+              <folding>
+                <element signature="e#1155#1935#0" expanded="false" />
+                <element signature="e#2040#3859#0" expanded="false" />
+                <element signature="e#2060#2969#0" expanded="false" />
+                <element signature="e#3911#5664#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -72,8 +78,8 @@
         <option value="$PROJECT_DIR$/Concurrency/scss/common/_defaults.scss" />
         <option value="$PROJECT_DIR$/Concurrency/scss/common/_fonts.scss" />
         <option value="$PROJECT_DIR$/Concurrency/scss/common/_settings.scss" />
-        <option value="$PROJECT_DIR$/Concurrency/scss/layout/_content.scss" />
         <option value="$PROJECT_DIR$/Concurrency/index.html" />
+        <option value="$PROJECT_DIR$/Concurrency/scss/layout/_content.scss" />
       </list>
     </option>
   </component>
@@ -179,73 +185,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drakkar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="REPOSETORY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Concurrency" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="theme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="icons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drakkar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="REPOSETORY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Concurrency" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drakkar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="REPOSETORY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Concurrency" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -360,17 +300,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/scss/layout/_content.scss">
+    <entry file="file://$PROJECT_DIR$/Concurrency/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="21" selection-start="1113" selection-end="1113" vertical-scroll-proportion="-9.686275" vertical-offset="662" max-vertical-offset="1326">
+        <state line="90" column="88" selection-start="3297" selection-end="3297" vertical-scroll-proportion="-56.807693" vertical-offset="53" max-vertical-offset="2091">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Concurrency/index.html">
+    <entry file="file://$PROJECT_DIR$/Concurrency/scss/layout/_content.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="108" column="27" selection-start="3772" selection-end="3772" vertical-scroll-proportion="0.8807018" vertical-offset="1334" max-vertical-offset="2074">
-          <folding />
+        <state line="16" column="27" selection-start="207" selection-end="207" vertical-scroll-proportion="0.03119266" vertical-offset="255" max-vertical-offset="3247">
+          <folding>
+            <element signature="e#1155#1935#0" expanded="false" />
+            <element signature="e#2040#3859#0" expanded="false" />
+            <element signature="e#2060#2969#0" expanded="false" />
+            <element signature="e#3911#5664#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

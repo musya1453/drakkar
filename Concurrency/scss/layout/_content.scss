@@ -1,73 +1,446 @@
 body {
-  background: linear-gradient(#8484e7 0%, #4d84e7 100%);
-  min-width: 800px;
   font-family: $regular;
 }
 
-.header-wrapper {
-  position: relative;
-  h1 {
-    font-size: 71px;
-    font-weight: 100;
-    text-align: center;
-    margin: 0;
-    padding: 100px 0 85px 0;
+strong {
+  font-family: $bold;
+}
 
-    span {
-      font-size: 31px;
-      color: #cdcef5;
-      display: block;
-    }
-  }
+a {
+  color: #ffffff;
+}
 
-  a.link {
-    position: absolute;
-    top:100px;
-    right:100px;
-    display: inline-block;
-    color: #fff;
-    background: #696ab9;
-    text-decoration: none;
-    padding: 20px 55px;
-   border:3px solid #9c9dec;
-    @include border-radius(11px);
-    text-align: center;
+.outer-wrapper {
+  @include background(linear-gradient(#8484e7 0%, #4d84e7 100%));
+}
 
-    span {
-      display: block;
+@media (min-width: 1600px) {
+  .header-wrapper {
+    position: relative;
+
+    h1 {
+      font-size: 71px;
+      font-weight: 100;
+      text-align: center;
+      margin: 0;
+      padding: 100px 0 85px 0;
+
+      span {
+        font-size: 31px;
+        color: #cdcef5;
+        display: block;
+      }
     }
 
-    .text{
-      font-size: 30px;
-    }
+    a.link {
+      position: absolute;
+      top: 100px;
+      right: 100px;
+      display: inline-block;
+      color: #fff;
+      background: #696ab9;
+      text-decoration: none;
+      padding: 20px 55px;
+      border: 3px solid #9c9dec;
+      @include border-radius(11px);
+      text-align: center;
 
-    .store {
-      position: relative;
-      font-size: 40px;
-      font-family: $bold;
+      span {
+        display: block;
+      }
 
-      &:before {
-        @include pseudo-block($top: 0, $left: 60px);
-        @include oneline-sprite-box($icons, apple)
+      .text {
+        font-size: 30px;
+      }
+
+      .store {
+        position: relative;
+        font-size: 40px;
+        font-family: $bold;
+
+        &:before {
+          @include pseudo-block($top: 0, $left: 60px);
+          @include oneline-sprite-box($icons, apple)
+        }
       }
     }
   }
 
+  .content-wrapper {
+
+    .img-one, .img-two {
+
+      img {
+        width: 100%;
+      }
+
+      .img-desc {
+        font-size: 34px;
+        text-align: center;
+        color: #cfd3f6;
+        margin: 40px 0 120px 0;
+      }
+    }
+
+    h5 {
+      font-family: $bold;
+      font-size: 37px;
+      margin: 20px 0;
+    }
+
+    .cols {
+      @include clearfix();
+      max-width: 1800px;
+      margin: 0 auto;
+      font-size: 37px;
+      font-weight: 100;
+      padding: 0 15px;
+      @include box-sizing(border-box);
+
+      .col {
+        float: left;
+        width: 50%;
+        @include box-sizing(border-box);
+
+        &.col-1 {
+          padding-right: 10%;
+        }
+
+        &.col-2 {
+          padding-left: 10%;
+
+          a {
+            display: block;
+          }
+        }
+      }
+    }
+  }
+
+  .outer-wrapper {
+    padding: 0 0 180px 0;
+  }
 }
 
-.content-wrapper {
+@media (min-width: 1100px) and (max-width: 1599px) {
+  .header-wrapper {
+    position: relative;
 
-  .img-one, .img-two {
-
-    img {
-      width: 100%;
-    }
-
-    .img-desc{
-      font-size: 34px;
+    h1 {
+      font-size: 55px;
+      font-weight: 100;
       text-align: center;
-      color: #cfd3f6;
-      margin: 40px 0;
+      margin: 0;
+      padding: 100px 0 85px 0;
+
+      span {
+        font-size: 25px;
+        color: #cdcef5;
+        display: block;
+      }
     }
+
+    a.link {
+      position: absolute;
+      top: 100px;
+      right: 20px;
+      display: inline-block;
+      color: #fff;
+      background: #696ab9;
+      text-decoration: none;
+      padding: 12px 37px;
+      border: 3px solid #9c9dec;
+      @include border-radius(11px);
+      text-align: center;
+
+      span {
+        display: block;
+      }
+
+      .text {
+        font-size: 21px;
+      }
+
+      .store {
+        position: relative;
+        font-size: 34px;
+        font-family: $bold;
+
+        &:before {
+          @include pseudo-block($top: -6px, $left: 15px);
+          @include oneline-sprite-box($icons, apple)
+        }
+      }
+    }
+  }
+
+  .content-wrapper {
+
+    .img-one, .img-two {
+
+      img {
+        width: 100%;
+      }
+
+      .img-desc {
+        font-size: 28px;
+        text-align: center;
+        color: #cfd3f6;
+        margin: 25px 0 100px 0;
+        font-family: $regularitalic;
+      }
+    }
+
+    h5 {
+      font-family: $bold;
+      font-size: 25px;
+      margin: 20px 0;
+    }
+
+    .cols {
+      @include clearfix();
+      max-width: 1800px;
+      margin: 0 auto;
+      font-size: 25px;
+      font-weight: 100;
+      padding: 0 25px;
+      @include box-sizing(border-box);
+
+      .col {
+        float: left;
+        width: 50%;
+        @include box-sizing(border-box);
+
+        &.col-1 {
+          padding-right: 10%;
+        }
+
+        &.col-2 {
+          padding-left: 10%;
+
+          a {
+            display: block;
+          }
+        }
+      }
+    }
+  }
+
+  .outer-wrapper {
+    padding: 0 0 180px 0;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1099px) {
+  .header-wrapper {
+    position: relative;
+    text-align: center;
+
+    h1 {
+      font-size: 55px;
+      font-weight: 100;
+      margin: 0;
+      padding: 60px 0 40px 0;
+
+      span {
+        font-size: 25px;
+        color: #cdcef5;
+        display: block;
+      }
+    }
+
+    a.link {
+      display: inline-block;
+      color: #fff;
+      background: #696ab9;
+      text-decoration: none;
+      padding: 12px 37px;
+      border: 3px solid #9c9dec;
+      @include border-radius(11px);
+      margin-bottom: 25px;
+
+      span {
+        display: block;
+      }
+
+      .text {
+        font-size: 21px;
+      }
+
+      .store {
+        position: relative;
+        font-size: 34px;
+        font-family: $bold;
+
+        &:before {
+          @include pseudo-block($top: -6px, $left: 15px);
+          @include oneline-sprite-box($icons, apple)
+        }
+      }
+    }
+  }
+
+  .content-wrapper {
+
+    .img-one, .img-two {
+
+      img {
+        width: 100%;
+      }
+
+      .img-desc {
+        font-size: 18px;
+        text-align: center;
+        color: #cfd3f6;
+        margin: 20px 0 50px 0;
+        font-family: $regularitalic;
+      }
+    }
+
+    h5 {
+      font-family: $bold;
+      font-size: 20px;
+      margin: 20px 0;
+    }
+
+    .cols {
+      @include clearfix();
+      max-width: 1800px;
+      margin: 0 auto;
+      font-size: 20px;
+      font-weight: 100;
+      padding: 0 25px;
+      @include box-sizing(border-box);
+
+      .col {
+        float: left;
+        width: 50%;
+        @include box-sizing(border-box);
+
+        &.col-1 {
+          padding-right: 10%;
+        }
+
+        &.col-2 {
+          padding-left: 10%;
+
+          a {
+            display: block;
+          }
+        }
+      }
+    }
+  }
+
+  .outer-wrapper {
+    padding: 0 0 180px 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .header-wrapper {
+    position: relative;
+    text-align: center;
+
+    h1 {
+      font-size: 50px;
+      font-weight: 100;
+      margin: 0;
+      padding: 60px 0 40px 0;
+
+      span {
+        font-size: 22px;
+        color: #cdcef5;
+        display: block;
+      }
+    }
+
+    a.link {
+      display: inline-block;
+      color: #fff;
+      background: #696ab9;
+      text-decoration: none;
+      padding: 12px 22px;
+      border: 3px solid #9c9dec;
+      @include border-radius(11px);
+      margin-bottom: 25px;
+
+      span {
+        display: block;
+      }
+
+      .text {
+        font-size: 18px;
+        margin-bottom: 6px;
+      }
+
+      .store {
+        position: relative;
+        font-size: 30px;
+        font-family: $bold;
+
+        &:before {
+          @include pseudo-block($top: -5px, $left: 10px);
+          @include oneline-sprite-box($icons, apple)
+        }
+      }
+    }
+  }
+
+  .content-wrapper {
+
+    .img-one, .img-two {
+
+      img {
+        width: 100%;
+      }
+
+      .img-desc {
+        font-size: 12px;
+        text-align: center;
+        color: #cfd3f6;
+        margin: 20px 0 20px 0;
+        font-family: $regularitalic;
+      }
+    }
+
+    h5 {
+      font-family: $bold;
+      font-size: 14px;
+      margin: 20px 0;
+    }
+
+    .cols {
+      @include clearfix();
+      max-width: 1800px;
+      margin: 0 auto;
+      font-size: 14px;
+      font-weight: 100;
+      padding: 0 10px;
+      @include box-sizing(border-box);
+
+      .col {
+        float: left;
+        width: 50%;
+        @include box-sizing(border-box);
+        text-align: justify;
+
+        &.col-1 {
+          padding-right: 5%;
+        }
+
+        &.col-2 {
+          padding-left: 5%;
+
+          a {
+            display: block;
+          }
+        }
+      }
+    }
+  }
+
+  .outer-wrapper {
+    padding: 0 0 180px 0;
   }
 }
